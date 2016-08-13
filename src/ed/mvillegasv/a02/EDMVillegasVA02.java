@@ -16,6 +16,8 @@ public class EDMVillegasVA02 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Tu numero a Binario es: ");
+        NotacionBinaria.convertir(12);
     }
     
 }
